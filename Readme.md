@@ -1,0 +1,1 @@
+Simple python scripts to show how to get driving distance using Google distance matrix api and OSM
